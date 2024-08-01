@@ -1,0 +1,20 @@
+[
+    {
+        "id":1,
+        "image":"https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/5/square.png"
+
+    },
+    {
+        "id":2,
+        "image":"https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/1/square.png"
+    },
+    {
+        "id":3,
+        "image":"https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/9/square.png"
+    },
+    {
+        "id":4,
+        "image":"https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/15/square.png"
+    }
+
+]
